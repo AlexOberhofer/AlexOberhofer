@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my Developer Page
+
+This github is the home of my (many) side projects that I have worked on since I started working as a software developer.
+
+Feel free to fork or contribute!
 
 <!--
 **AlexOberhofer/AlexOberhofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
